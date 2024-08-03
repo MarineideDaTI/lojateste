@@ -1,0 +1,5 @@
+rootProject.name = 'lojateste'
+
+include ':app'
+include ':lib'
+
